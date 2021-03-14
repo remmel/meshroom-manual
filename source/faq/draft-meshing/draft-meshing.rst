@@ -8,3 +8,5 @@ As of version 2019.1.0 of meshroom, it is possible to do a reconstruction withou
 You should use the HIGH preset on the FeatureExtraction node to get enough density for the Meshing. `Reconstruction-parameters`_
 
 .. _Reconstruction-parameters: https://github.com/alicevision/meshroom/wiki/Reconstruction-parameters
+
+Similar doc: https://github.com/alicevision/meshroom/wiki/Draft-Meshing
